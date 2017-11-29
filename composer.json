@@ -1,5 +1,5 @@
 {
-  "name": "albertmoreno/gossiping-bus-drivers-kata-php",
+  "name": "albertmoreno/kata-php",
   "authors": [
     {
       "name": "Albert Moreno",
@@ -9,13 +9,14 @@
   "type": "Project",
   "autoload": {
     "psr-4": {
-      "kata\\": "src/"
+      "Kata\\": "src/",
+      "Tests\\": "tests/"
     }
   },
   "require-dev": {
     "phpunit/phpunit": "^6.4"
   },
-  "license": "MIT",
+  "license": "",
   "minimum-stability": "dev",
   "require": {}
 }
