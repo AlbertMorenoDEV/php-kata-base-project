@@ -10,7 +10,7 @@ class KataTest extends TestCase
     /**
      * @test
      */
-    public function shouldCreateNewInstance()
+    public function shouldCreateNewInstance(): void
     {
         $kata = new Kata();
 

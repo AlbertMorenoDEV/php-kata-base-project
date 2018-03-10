@@ -18,5 +18,7 @@
   },
   "license": "",
   "minimum-stability": "dev",
-  "require": {}
+  "require": {
+      "php": "^7.2"
+  }
 }
