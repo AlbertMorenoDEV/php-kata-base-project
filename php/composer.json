@@ -1,5 +1,5 @@
 {
-  "name": "albertmoreno/kata-php",
+  "name": "albertmoreno/tdd-kata-base-project",
   "authors": [
     {
       "name": "Albert Moreno",
@@ -14,7 +14,7 @@
     }
   },
   "require-dev": {
-    "phpunit/phpunit": "^6.4"
+    "phpunit/phpunit": "^7.0"
   },
   "license": "",
   "minimum-stability": "dev",
